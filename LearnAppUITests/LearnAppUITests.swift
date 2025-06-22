@@ -1,10 +1,3 @@
-//
-//  LearnAppUITests.swift
-//  LearnAppUITests
-//
-//  Created by Tobias Knaupp on 18.05.25.
-//
-
 import XCTest
 
 final class LearnAppUITests: XCTestCase {

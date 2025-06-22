@@ -52,11 +52,6 @@ struct QuizView: View {
 
             Spacer()
 
-            Button("Zurück zum Start") {
-                presentationMode.wrappedValue.dismiss()
-            }
-            .padding()
-
             Button("Weiter") {
                 goToNextQuestion()
             }
@@ -119,4 +114,5 @@ struct QuizView: View {
         selectedOption = nil
     }
 }
+
 

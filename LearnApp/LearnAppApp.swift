@@ -1,10 +1,3 @@
-//
-//  LearnAppApp.swift
-//  LearnApp
-//
-//  Created by Tobias Knaupp on 18.05.25.
-//
-
 import SwiftUI
 
 @main

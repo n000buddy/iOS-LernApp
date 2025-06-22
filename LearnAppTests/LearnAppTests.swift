@@ -1,9 +1,3 @@
-//
-//  LearnAppTests.swift
-//  LearnAppTests
-//
-//  Created by Tobias Knaupp on 18.05.25.
-//
 
 import Testing
 @testable import LearnApp
